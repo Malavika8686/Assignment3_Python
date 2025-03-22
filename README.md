@@ -17,7 +17,7 @@ The script `Task_1(3).py` defines a function to compute the factorial of a numbe
 ## Task 2: Using the Math Module
 
 ### Description
-The script `Task_2(3)` prompts the user to enter a number and then calculates:
+The script `Task_2(3).py` prompts the user to enter a number and then calculates:
 - The square root
 - The natural logarithm (base e)
 - The sine (in radians)
